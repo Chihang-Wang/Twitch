@@ -1,0 +1,9 @@
+/Users/chihangwang/Developer/jupiter/src/main/java/com/laioffer/jupiter/servlet/GameServlet.java
+/Users/chihangwang/Developer/jupiter/src/main/java/com/laioffer/jupiter/servlet/SearchServlet.java
+/Users/chihangwang/Developer/jupiter/src/main/java/com/laioffer/jupiter/external/TwitchException.java
+/Users/chihangwang/Developer/jupiter/src/main/java/com/laioffer/jupiter/db/MySQLTableCreator.java
+/Users/chihangwang/Developer/jupiter/src/main/java/com/laioffer/jupiter/db/MySQLDBUtil.java
+/Users/chihangwang/Developer/jupiter/src/main/java/com/laioffer/jupiter/entity/ItemType.java
+/Users/chihangwang/Developer/jupiter/src/main/java/com/laioffer/jupiter/entity/Item.java
+/Users/chihangwang/Developer/jupiter/src/main/java/com/laioffer/jupiter/entity/Game.java
+/Users/chihangwang/Developer/jupiter/src/main/java/com/laioffer/jupiter/external/TwitchClient.java

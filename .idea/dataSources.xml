@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="jupiter@chihang1-instance.ccb3kw2mckcv.us-east-2.rds.amazonaws.com" uuid="d3f2295b-97c4-4f0f-8f3d-f8c1f83e5f0e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://chihang1-instance.ccb3kw2mckcv.us-east-2.rds.amazonaws.com:3306/jupiter</jdbc-url>
+    </data-source>
+  </component>
+</project>
